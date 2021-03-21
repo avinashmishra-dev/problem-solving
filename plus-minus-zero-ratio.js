@@ -7,6 +7,7 @@
  **    input = [1, 2, 0 , -1, -3, 4], and length of array (n) = 6 
  **    logical output - 4/6, 2/6, 1/6
  **    screen output - 0.500000, 0.333333, 0.166667
+ **    question link - https://www.hackerrank.com/challenges/plus-minus/problem
  */
 
 function plusMinus(arr) {
